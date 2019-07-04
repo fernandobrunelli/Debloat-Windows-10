@@ -27,7 +27,7 @@ $apps = @(
     "Microsoft.MinecraftUWP"
     "Microsoft.NetworkSpeedTest"
     "Microsoft.Office.OneNote"
-    #"Microsoft.OneConnect"
+    "Microsoft.OneConnect"
     "Microsoft.People"
     "Microsoft.Print3D"
     "Microsoft.SkypeApp"
@@ -40,7 +40,7 @@ $apps = @(
     "Microsoft.WindowsMaps"
     "Microsoft.WindowsPhone"
     "Microsoft.WindowsSoundRecorder"
-    #"Microsoft.WindowsStore"   # can't be re-installed
+    "Microsoft.WindowsStore"   # can't be re-installed
     "Microsoft.Xbox.TCUI"
     "Microsoft.XboxApp"
     "Microsoft.XboxGameOverlay"
@@ -106,7 +106,7 @@ $apps = @(
     "Playtika.CaesarsSlotsFreeCasino"
     "ShazamEntertainmentLtd.Shazam"
     "SpotifyAB.SpotifyMusic"
-    #"TheNewYorkTimes.NYTCrossword"
+    "TheNewYorkTimes.NYTCrossword"
     "ThumbmunkeysLtd.PhototasticCollage"
     "TuneIn.TuneInRadio"
     "WinZipComputing.WinZipUniversal"
